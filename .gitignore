@@ -47,8 +47,6 @@ bower.json
 # Ignore node_modules
 node_modules/
 
-Gemfile.lock
-
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
